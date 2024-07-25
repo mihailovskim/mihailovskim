@@ -1,7 +1,7 @@
 Hi 👋 My name is Martin
 =======================
 
-Full Strack PHP Developer
+Full Stack PHP Developer
 -------------------------
 
 * 🌍  I'm based in Skopje
